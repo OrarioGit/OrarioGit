@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OrarioGit&theme=tokyonight-duo&locale=zh_Hant&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OrarioGit&theme=tokyonight-duo&card_width=700&locale=zh_Hant)](https://git.io/streak-stats)
 
 
 <!--
